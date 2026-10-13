@@ -101,12 +101,14 @@ my leetcode problem solutions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vtu30028-lab/apsleetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/vtu30028-lab/apsleetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/vtu30028-lab/apsleetcode/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/vtu30028-lab/apsleetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vtu30028-lab/apsleetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vtu30028-lab/apsleetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/vtu30028-lab/apsleetcode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/vtu30028-lab/apsleetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
@@ -123,6 +125,7 @@ my leetcode problem solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu30028-lab/apsleetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/vtu30028-lab/apsleetcode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/vtu30028-lab/apsleetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/vtu30028-lab/apsleetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/vtu30028-lab/apsleetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu30028-lab/apsleetcode/tree/master/0739-daily-temperatures) |
