@@ -64,6 +64,7 @@ my leetcode problem solutions
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu30028-lab/apsleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu30028-lab/apsleetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/vtu30028-lab/apsleetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vtu30028-lab/apsleetcode/tree/master/0283-move-zeroes) |
@@ -199,4 +200,8 @@ my leetcode problem solutions
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu30028-lab/apsleetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu30028-lab/apsleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
