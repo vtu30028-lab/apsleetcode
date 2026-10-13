@@ -66,6 +66,7 @@ my leetcode problem solutions
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu30028-lab/apsleetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/vtu30028-lab/apsleetcode/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/vtu30028-lab/apsleetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu30028-lab/apsleetcode/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/vtu30028-lab/apsleetcode/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/vtu30028-lab/apsleetcode/tree/master/0735-asteroid-collision) |
@@ -182,6 +183,7 @@ my leetcode problem solutions
 | [0141-linked-list-cycle](https://github.com/vtu30028-lab/apsleetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu30028-lab/apsleetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu30028-lab/apsleetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/vtu30028-lab/apsleetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vtu30028-lab/apsleetcode/tree/master/0344-reverse-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
