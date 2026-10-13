@@ -77,6 +77,7 @@ my leetcode problem solutions
 | [0739-daily-temperatures](https://github.com/vtu30028-lab/apsleetcode/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/vtu30028-lab/apsleetcode/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu30028-lab/apsleetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/vtu30028-lab/apsleetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu30028-lab/apsleetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -225,5 +226,6 @@ my leetcode problem solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/vtu30028-lab/apsleetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu30028-lab/apsleetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 <!---LeetCode Topics End-->
