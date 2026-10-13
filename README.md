@@ -64,6 +64,7 @@ my leetcode problem solutions
 | [0496-next-greater-element-i](https://github.com/vtu30028-lab/apsleetcode/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/vtu30028-lab/apsleetcode/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/vtu30028-lab/apsleetcode/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu30028-lab/apsleetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,10 +119,12 @@ my leetcode problem solutions
 | [0496-next-greater-element-i](https://github.com/vtu30028-lab/apsleetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu30028-lab/apsleetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vtu30028-lab/apsleetcode/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu30028-lab/apsleetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu30028-lab/apsleetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu30028-lab/apsleetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vtu30028-lab/apsleetcode/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu30028-lab/apsleetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
