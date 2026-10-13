@@ -96,6 +96,7 @@ my leetcode problem solutions
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/vtu30028-lab/apsleetcode/tree/master/0622-design-circular-queue) |
+| [0901-online-stock-span](https://github.com/vtu30028-lab/apsleetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vtu30028-lab/apsleetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -105,6 +106,7 @@ my leetcode problem solutions
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/vtu30028-lab/apsleetcode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/vtu30028-lab/apsleetcode/tree/master/0933-number-of-recent-calls) |
 ## Hash Table
 |  |
@@ -115,9 +117,11 @@ my leetcode problem solutions
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu30028-lab/apsleetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu30028-lab/apsleetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/vtu30028-lab/apsleetcode/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu30028-lab/apsleetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu30028-lab/apsleetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/vtu30028-lab/apsleetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
