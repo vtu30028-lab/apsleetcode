@@ -19,6 +19,7 @@ my leetcode problem solutions
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vtu30028-lab/apsleetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu30028-lab/apsleetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vtu30028-lab/apsleetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vtu30028-lab/apsleetcode/tree/master/0112-path-sum) |
@@ -32,6 +33,7 @@ my leetcode problem solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vtu30028-lab/apsleetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vtu30028-lab/apsleetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vtu30028-lab/apsleetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vtu30028-lab/apsleetcode/tree/master/0113-path-sum-ii) |
@@ -45,6 +47,7 @@ my leetcode problem solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vtu30028-lab/apsleetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu30028-lab/apsleetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vtu30028-lab/apsleetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/vtu30028-lab/apsleetcode/tree/master/0112-path-sum) |
@@ -165,6 +168,7 @@ my leetcode problem solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu30028-lab/apsleetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/vtu30028-lab/apsleetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu30028-lab/apsleetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu30028-lab/apsleetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/vtu30028-lab/apsleetcode/tree/master/0155-min-stack) |
