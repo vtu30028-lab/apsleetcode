@@ -94,8 +94,14 @@ my leetcode problem solutions
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/vtu30028-lab/apsleetcode/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/vtu30028-lab/apsleetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/vtu30028-lab/apsleetcode/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/vtu30028-lab/apsleetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/vtu30028-lab/apsleetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
