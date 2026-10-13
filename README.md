@@ -6,6 +6,7 @@ my leetcode problem solutions
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vtu30028-lab/apsleetcode/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/vtu30028-lab/apsleetcode/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
@@ -116,6 +117,7 @@ my leetcode problem solutions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vtu30028-lab/apsleetcode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/vtu30028-lab/apsleetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu30028-lab/apsleetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vtu30028-lab/apsleetcode/tree/master/0901-online-stock-span) |
@@ -127,4 +129,8 @@ my leetcode problem solutions
 | [0739-daily-temperatures](https://github.com/vtu30028-lab/apsleetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vtu30028-lab/apsleetcode/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu30028-lab/apsleetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vtu30028-lab/apsleetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
