@@ -64,6 +64,7 @@ my leetcode problem solutions
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu30028-lab/apsleetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu30028-lab/apsleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu30028-lab/apsleetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/vtu30028-lab/apsleetcode/tree/master/0239-sliding-window-maximum) |
@@ -81,6 +82,7 @@ my leetcode problem solutions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu30028-lab/apsleetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu30028-lab/apsleetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -181,6 +183,7 @@ my leetcode problem solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu30028-lab/apsleetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/vtu30028-lab/apsleetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu30028-lab/apsleetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu30028-lab/apsleetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -204,4 +207,12 @@ my leetcode problem solutions
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu30028-lab/apsleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vtu30028-lab/apsleetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vtu30028-lab/apsleetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
