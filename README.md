@@ -8,6 +8,7 @@ my leetcode problem solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu30028-lab/apsleetcode/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/vtu30028-lab/apsleetcode/tree/master/0257-binary-tree-paths) |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu30028-lab/apsleetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu30028-lab/apsleetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Backtracking
 |  |
@@ -117,6 +118,7 @@ my leetcode problem solutions
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/vtu30028-lab/apsleetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/vtu30028-lab/apsleetcode/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu30028-lab/apsleetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/vtu30028-lab/apsleetcode/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/vtu30028-lab/apsleetcode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
@@ -130,6 +132,7 @@ my leetcode problem solutions
 | [0141-linked-list-cycle](https://github.com/vtu30028-lab/apsleetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu30028-lab/apsleetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu30028-lab/apsleetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu30028-lab/apsleetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/vtu30028-lab/apsleetcode/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -188,4 +191,8 @@ my leetcode problem solutions
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/vtu30028-lab/apsleetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/vtu30028-lab/apsleetcode/tree/master/0206-reverse-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/vtu30028-lab/apsleetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
