@@ -61,6 +61,7 @@ my leetcode problem solutions
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vtu30028-lab/apsleetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0704-binary-search](https://github.com/vtu30028-lab/apsleetcode/tree/master/0704-binary-search) |
 ## Array
 |  |
 | ------- |
@@ -71,6 +72,7 @@ my leetcode problem solutions
 | [0283-move-zeroes](https://github.com/vtu30028-lab/apsleetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu30028-lab/apsleetcode/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/vtu30028-lab/apsleetcode/tree/master/0622-design-circular-queue) |
+| [0704-binary-search](https://github.com/vtu30028-lab/apsleetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/vtu30028-lab/apsleetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu30028-lab/apsleetcode/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/vtu30028-lab/apsleetcode/tree/master/0946-validate-stack-sequences) |
