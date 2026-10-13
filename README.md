@@ -98,6 +98,7 @@ my leetcode problem solutions
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/vtu30028-lab/apsleetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0622-design-circular-queue](https://github.com/vtu30028-lab/apsleetcode/tree/master/0622-design-circular-queue) |
 ## Design
 |  |
@@ -122,6 +123,7 @@ my leetcode problem solutions
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/vtu30028-lab/apsleetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/vtu30028-lab/apsleetcode/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -164,4 +166,8 @@ my leetcode problem solutions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu30028-lab/apsleetcode/tree/master/0239-sliding-window-maximum) |
+## Two Pointers
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/vtu30028-lab/apsleetcode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
